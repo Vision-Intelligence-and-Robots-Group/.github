@@ -6,6 +6,9 @@ We are Vision-Intelligence-and-Robots-Group
 
 Group Member:
 
+http://homepage.hit.edu.cn/hongxiaopeng
+
+
 
 
 <!--
