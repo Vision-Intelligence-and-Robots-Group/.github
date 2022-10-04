@@ -14,35 +14,28 @@ Dai Yong
 **Ph.D Students**
 
 [[Yabin Wang]](https://github.com/iamwangyabin)
-
 [[Chenhao Wang]](https://github.com/Mr-Monday)
-
 [[Aoting Zhang]](https://github.com/aooating)
 
 
 **Master Students**
 
 [[Yujun Wang]](https://github.com/wyj1158965943)
-
 [[Xiaohan Zhang]](https://github.com/zxxxxh)
 
 [[Hui Lin]](https://github.com/LoraLinH)
-
 [[Beinan Liu]](https://github.com/pinna526)
-
 [[Haimeng Zhang]](https://github.com/infinite0522)
 
 [[Yuxuan Wang]](https://github.com/wyx0203)
-
 [[Qinnan Shangguan]](https://github.com/SG12QT)
 
 **Undergraduate Student**
 
 [[Yupeng Wei]](https://github.com/Lin-ke)
-
 Zhouzhe Wu
-[[Jingguang Li]](https://github.com/benmagnifico)
 
+[[Jingguang Li]](https://github.com/benmagnifico)
 [[Zhengqin Wei]](https://github.com/ZhengQinLai)
 
 
