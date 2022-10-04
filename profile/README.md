@@ -1,13 +1,34 @@
 ## Hi there 👋
 
 
-We are Vision-Intelligence-and-Robots-Group 
+We are Vision-Intelligence-and-Robots-Group, a joint research group of researchers from Harbin Insitute of Technology, Xi'an JIaotong University, Shenzhen Institute of Advanced Technology, and Pengcheng Laboratory.
 
 
-Group Member:
+##Group Member:
 
-http://homepage.hit.edu.cn/hongxiaopeng
+**Staff**
+[[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
+[[Zhiheng Ma]](https://github.com/ZhihengCV)
+Dai Yong
 
+**Ph.D Students**
+[[Yabin Wang]](https://github.com/iamwangyabin)
+[[Chenhao Wang]](https://github.com/Mr-Monday)
+[[Aoting Zhang]](https://github.com/aooating)
+
+**Master Students**
+[[Yujun Wang]](https://github.com/wyj1158965943)
+[[Xiaohan Zhang]](https://github.com/zxxxxh)
+[[Hui Lin]](https://github.com/LoraLinH)
+[[Beinan Liu]](https://github.com/pinna526)
+[[Haimeng Zhang]](https://github.com/infinite0522)
+[[Yuxuan Wang]](https://github.com/wyx0203)
+[[Qinnan Shangguan]](https://github.com/SG12QT)
+**Undergraduate Student**
+[[Yupeng Wei]](https://github.com/Lin-ke)
+Zhouzhe Wu
+[[Jingguang Li]](https://github.com/benmagnifico)
+[[Zhengqin Wei]](https://github.com/ZhengQinLai)
 
 
 
