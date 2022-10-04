@@ -9,7 +9,9 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of researche
 **Staff**
 
 Professor [[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
+
 Assistant Professor [[Zhiheng Ma]](https://github.com/ZhihengCV)
+
 Dr. Dai Yong
 
 **Ph.D Students**
