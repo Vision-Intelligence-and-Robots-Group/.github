@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-We are Vision-Intelligence-and-Robots-Group, a joint research group of researchers from Harbin Insitute of Technology, Xi'an JIaotong University, Shenzhen Institute of Advanced Technology, and Pengcheng Laboratory.
+We are Vision-Intelligence-and-Robots-Group, a joint research group of computer vision researchers from Harbin Insitute of Technology, Xi'an JIaotong University, Shenzhen Institute of Advanced Technology, and Pengcheng Laboratory.
 
 
 ## Group Member:
@@ -12,7 +12,7 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of researche
 
 **Assistant Professor** [[Zhiheng Ma]](https://github.com/ZhihengCV)
 
-**Dr.** [[Yong Dai]]
+**Dr.** [Yong Dai]
 
 ### Student
 
@@ -38,7 +38,7 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of researche
 **Undergraduate Student**
 
 [[Yupeng Wei]](https://github.com/Lin-ke)
-[[Zhouzhe Wu]]
+[Zhouzhe Wu]
 
 [[Jingguang Li]](https://github.com/benmagnifico)
 [[Zhengqin Lai]](https://github.com/ZhengQinLai)
