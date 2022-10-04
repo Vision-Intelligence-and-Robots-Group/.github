@@ -4,15 +4,17 @@
 We are Vision-Intelligence-and-Robots-Group, a joint research group of researchers from Harbin Insitute of Technology, Xi'an JIaotong University, Shenzhen Institute of Advanced Technology, and Pengcheng Laboratory.
 
 
-##Group Member:
+## Group Member:
 
-**Staff**
+### Staff
 
-Professor [[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
+**Professor** [[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
 
-Assistant Professor [[Zhiheng Ma]](https://github.com/ZhihengCV)
+**Assistant Professor** [[Zhiheng Ma]](https://github.com/ZhihengCV)
 
-Dr. [[Yong Dai]]
+**Dr.** [[Yong Dai]]
+
+### Student
 
 **Ph.D Students**
 
