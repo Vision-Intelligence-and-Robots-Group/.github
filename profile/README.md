@@ -12,7 +12,7 @@ Professor [[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
 
 Assistant Professor [[Zhiheng Ma]](https://github.com/ZhihengCV)
 
-Dr. Dai Yong
+Dr. [[Yong Dai]]
 
 **Ph.D Students**
 
@@ -36,10 +36,10 @@ Dr. Dai Yong
 **Undergraduate Student**
 
 [[Yupeng Wei]](https://github.com/Lin-ke)
-Zhouzhe Wu
+[[Zhouzhe Wu]]
 
 [[Jingguang Li]](https://github.com/benmagnifico)
-[[Zhengqin Wei]](https://github.com/ZhengQinLai)
+[[Zhengqin Lai]](https://github.com/ZhengQinLai)
 
 
 
