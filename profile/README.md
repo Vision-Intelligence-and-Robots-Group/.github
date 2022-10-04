@@ -31,9 +31,9 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Undergraduate Student**
 
-[[Yupeng Wei]](https://github.com/Lin-ke) :sparkles: [Zhouzhe Wu]
+[Yupeng Wei](https://github.com/Lin-ke) :sparkles: [Zhouzhe Wu]
 
-[[Jingguang Li]](https://github.com/benmagnifico) :sparkles: [[Zhengqin Lai]](https://github.com/ZhengQinLai)
+[Jingguang Li](https://github.com/benmagnifico) :sparkles: [Zhengqin Lai](https://github.com/ZhengQinLai)
 
 
 
