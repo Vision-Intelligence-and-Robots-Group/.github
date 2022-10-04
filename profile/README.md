@@ -8,9 +8,9 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 ### Staff
 
-**Professor** [[Xiaopeng Hong]](http://homepage.hit.edu.cn/hongxiaopeng)
+**Professor** [Xiaopeng Hong](http://homepage.hit.edu.cn/hongxiaopeng)
 
-**Assistant Professor** [[Zhiheng Ma]](https://github.com/ZhihengCV)
+**Assistant Professor** [Zhiheng Ma](https://github.com/ZhihengCV)
 
 **Dr.** [Yong Dai]
 
@@ -18,30 +18,22 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Ph.D Students**
 
-[[Yabin Wang]](https://github.com/iamwangyabin)
-[[Chenhao Wang]](https://github.com/Mr-Monday)
-[[Aoting Zhang]](https://github.com/aooating)
+[Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) :sparkles: [Aoting Zhang](https://github.com/aooating)
 
 
 **Master Students**
 
-[[Yujun Wang]](https://github.com/wyj1158965943)
-[[Xiaohan Zhang]](https://github.com/zxxxxh)
+[Yujun Wang](https://github.com/wyj1158965943) :sparkles: [Xiaohan Zhang](https://github.com/zxxxxh)
 
-[[Hui Lin]](https://github.com/LoraLinH)
-[[Beinan Liu]](https://github.com/pinna526)
-[[Haimeng Zhang]](https://github.com/infinite0522)
+[Hui Lin](https://github.com/LoraLinH) :sparkles: [Beinan Liu](https://github.com/pinna526) :sparkles: [Haimeng Zhang](https://github.com/infinite0522)
 
-[[Yuxuan Wang]](https://github.com/wyx0203)
-[[Qinnan Shangguan]](https://github.com/SG12QT)
+[Yuxuan Wang](https://github.com/wyx0203) :sparkles: [Qinnan Shangguan](https://github.com/SG12QT)
 
 **Undergraduate Student**
 
-[[Yupeng Wei]](https://github.com/Lin-ke)
-[Zhouzhe Wu]
+[[Yupeng Wei]](https://github.com/Lin-ke) :sparkles: [Zhouzhe Wu]
 
-[[Jingguang Li]](https://github.com/benmagnifico)
-[[Zhengqin Lai]](https://github.com/ZhengQinLai)
+[[Jingguang Li]](https://github.com/benmagnifico) :sparkles: [[Zhengqin Lai]](https://github.com/ZhengQinLai)
 
 
 
