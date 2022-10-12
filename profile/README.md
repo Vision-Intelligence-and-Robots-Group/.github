@@ -12,14 +12,14 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Assistant Professor** [Zhiheng Ma](https://github.com/ZhihengCV)
 
-**Dr.** [Yong Dai]
+**Dr.** [Yong Dai](https://github.com/Yong-DAI)
 
 ### Student
 
 **Ph.D Students**
 
 [Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) :sparkles: [Aoting Zhang](https://github.com/aooating)
-
+[Yifei Qian](https://github.com/aooating)
 
 **Master Students**
 
