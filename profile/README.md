@@ -18,11 +18,11 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Ph.D Students**
 
-[Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) :sparkles: [Aoting Zhang](https://github.com/aooating)
+[Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) 
 
-**Visiting Ph.D Students**
+**Visiting Students**
 
-[Yifei Qian]
+[Aoting Zhang](https://github.com/aooating) :sparkles: [Yifei Qian]
 
 **Master Students**
 
