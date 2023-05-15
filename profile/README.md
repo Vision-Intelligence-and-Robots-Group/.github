@@ -18,7 +18,7 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Ph.D Students**
 
-[Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) 
+[Yabin Wang](https://github.com/iamwangyabin) :sparkles: [Chenhao Wang](https://github.com/Mr-Monday) :sparkles: [Kaige Mao](https://github.com/mkg1204)
 
 **Visiting Students**
 
@@ -34,7 +34,7 @@ We are Vision-Intelligence-and-Robots-Group, a joint research group of computer 
 
 **Undergraduate Student**
 
-[Yupeng Wei](https://github.com/Lin-ke) :sparkles: [Zhouzhe Wu](https://github.com/wu-zz)
+[Yupeng Wei](https://github.com/Lin-ke) :sparkles: [Zhouzhe Wu](https://github.com/wu-zz)  :sparkles: [Xizi Yinfan](https://github.com/only203)  :sparkles: [Hequan Huang]
 
 [Jingguang Li](https://github.com/benmagnifico) :sparkles: [Zhengqin Lai](https://github.com/ZhengQinLai)
 
